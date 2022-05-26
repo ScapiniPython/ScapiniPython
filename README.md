@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ScapiniPython
 - 👀 I’m interested in work with Data Science and programming.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java Projects 
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python Projects 
 - 📫 How to reach me scapinipython@gmail.com
 
 <!---
